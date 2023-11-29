@@ -1,0 +1,12 @@
+   0 nano myfirstbashscript.sh
+   1 chmod +x myfirstbashscript.sh
+   2 `./myfirstbashscript.sh`
+   3 nano myfirstbashscript.sh
+   4 chmod +x myfirstbashscript.sh
+   5 `./myfirstbashscript.sh`
+   6 nano myfirstbashscript.sh
+   7 `./myfirstbashscript.sh`
+   8 history > history_10.txt
+   9 export_file_history_10.txt
+  10 export_file hisrory_10.txt
+  11 history > history_7.txt
